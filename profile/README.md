@@ -1,4 +1,4 @@
-**LeDan Bibliotech** 📚
+# **LeDan Bibliotech** 📚
 
 A LeDan Bibliotech é um sistema completo de gerenciamento de bibliotecas, com funcionalidades externas à organização do catálogo de livros, controle de empréstimos e devoluções, além da administração de usuários e permissões.
 
